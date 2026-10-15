@@ -1,0 +1,21 @@
+# --- Eseguibili compilati ---
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+a.out
+
+# --- File di sistema ---
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
